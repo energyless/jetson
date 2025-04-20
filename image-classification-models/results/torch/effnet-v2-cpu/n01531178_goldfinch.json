@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "11", "label": "goldfinch", "score": 0.7993884086608887}, {"class_id": "10", "label": "brambling", "score": 0.001470124931074679}, {"class_id": "12", "label": "house finch", "score": 0.0014005745761096478}]}

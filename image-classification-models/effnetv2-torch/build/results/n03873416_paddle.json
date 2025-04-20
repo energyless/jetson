@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "472", "label": "canoe", "score": 0.35888054966926575}, {"class_id": "693", "label": "paddle", "score": 0.23035433888435364}, {"class_id": "576", "label": "gondola", "score": 0.09208476543426514}]}

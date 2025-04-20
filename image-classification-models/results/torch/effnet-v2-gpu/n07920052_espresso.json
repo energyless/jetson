@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "967", "label": "espresso", "score": 0.8099926114082336}, {"class_id": "550", "label": "espresso maker", "score": 0.01144547201693058}, {"class_id": "504", "label": "coffee mug", "score": 0.0075471242889761925}]}

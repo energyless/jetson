@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "6", "label": "stingray", "score": 0.5085298418998718}, {"class_id": "5", "label": "electric ray", "score": 0.23077283799648285}, {"class_id": "4", "label": "hammerhead", "score": 0.0014373812591657043}]}

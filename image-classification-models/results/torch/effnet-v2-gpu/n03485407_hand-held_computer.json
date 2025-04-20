@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "590", "label": "hand-held computer", "score": 0.625394344329834}, {"class_id": "826", "label": "stopwatch", "score": 0.04070570692420006}, {"class_id": "426", "label": "barometer", "score": 0.023453036323189735}]}

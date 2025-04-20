@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "777", "label": "scabbard", "score": 0.838250994682312}, {"class_id": "623", "label": "letter opener", "score": 0.01880604587495327}, {"class_id": "490", "label": "chain mail", "score": 0.001421809894964099}]}

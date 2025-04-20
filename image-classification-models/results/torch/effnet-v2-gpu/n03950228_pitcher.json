@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "725", "label": "pitcher", "score": 0.3684770464897156}, {"class_id": "899", "label": "water jug", "score": 0.20531557500362396}, {"class_id": "438", "label": "beaker", "score": 0.06034304201602936}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "833", "label": "submarine", "score": 0.7367522716522217}, {"class_id": "403", "label": "aircraft carrier", "score": 0.002819301560521126}, {"class_id": "913", "label": "wreck", "score": 0.0019284948939457536}]}

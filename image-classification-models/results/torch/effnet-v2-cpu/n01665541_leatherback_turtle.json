@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "34", "label": "leatherback turtle", "score": 0.8499161601066589}, {"class_id": "33", "label": "loggerhead", "score": 0.008646536618471146}, {"class_id": "36", "label": "terrapin", "score": 0.0019810739904642105}]}

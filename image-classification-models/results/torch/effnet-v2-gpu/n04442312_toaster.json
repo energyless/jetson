@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "859", "label": "toaster", "score": 0.8334990739822388}, {"class_id": "891", "label": "waffle iron", "score": 0.0024945305194705725}, {"class_id": "811", "label": "space heater", "score": 0.002342746825888753}]}

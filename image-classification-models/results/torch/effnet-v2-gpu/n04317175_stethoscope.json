@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "823", "label": "stethoscope", "score": 0.8288235664367676}, {"class_id": "617", "label": "lab coat", "score": 0.005387188866734505}, {"class_id": "845", "label": "syringe", "score": 0.0013766774209216237}]}

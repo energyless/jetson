@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "704", "label": "parking meter", "score": 0.767626941204071}, {"class_id": "412", "label": "ashcan", "score": 0.004287577234208584}, {"class_id": "104", "label": "wallaby", "score": 0.002439497970044613}]}

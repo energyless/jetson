@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "536", "label": "dock", "score": 0.717205286026001}, {"class_id": "460", "label": "breakwater", "score": 0.02773258090019226}, {"class_id": "628", "label": "liner", "score": 0.015669669955968857}]}

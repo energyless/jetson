@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "613", "label": "joystick", "score": 0.7005293965339661}, {"class_id": "740", "label": "power drill", "score": 0.007331822067499161}, {"class_id": "784", "label": "screwdriver", "score": 0.0023072592448443174}]}

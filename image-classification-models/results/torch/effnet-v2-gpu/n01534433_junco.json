@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "13", "label": "junco", "score": 0.7804538011550903}, {"class_id": "10", "label": "brambling", "score": 0.011733638122677803}, {"class_id": "15", "label": "robin", "score": 0.006133302580565214}]}

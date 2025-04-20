@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "835", "label": "sundial", "score": 0.721271276473999}, {"class_id": "635", "label": "magnetic compass", "score": 0.0030425051227211952}, {"class_id": "409", "label": "analog clock", "score": 0.0024401198606938124}]}

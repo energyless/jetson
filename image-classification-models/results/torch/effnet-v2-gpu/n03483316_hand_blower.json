@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "589", "label": "hand blower", "score": 0.6832572817802429}, {"class_id": "585", "label": "hair spray", "score": 0.001838444615714252}, {"class_id": "740", "label": "power drill", "score": 0.0012937879655510187}]}

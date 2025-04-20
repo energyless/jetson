@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "692", "label": "packet", "score": 0.5973024964332581}, {"class_id": "549", "label": "envelope", "score": 0.04961996152997017}, {"class_id": "478", "label": "carton", "score": 0.028929322957992554}]}

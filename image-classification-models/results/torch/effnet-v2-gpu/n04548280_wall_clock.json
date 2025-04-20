@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "892", "label": "wall clock", "score": 0.7459028959274292}, {"class_id": "409", "label": "analog clock", "score": 0.024443920701742172}, {"class_id": "426", "label": "barometer", "score": 0.0023431668523699045}]}

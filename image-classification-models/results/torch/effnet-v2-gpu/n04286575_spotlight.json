@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "818", "label": "spotlight", "score": 0.7205635905265808}, {"class_id": "862", "label": "torch", "score": 0.0071959528140723705}, {"class_id": "846", "label": "table lamp", "score": 0.00196521426551044}]}

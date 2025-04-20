@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "635", "label": "magnetic compass", "score": 0.7946487665176392}, {"class_id": "426", "label": "barometer", "score": 0.0036497199907898903}, {"class_id": "835", "label": "sundial", "score": 0.003166241804137826}]}

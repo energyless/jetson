@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "535", "label": "disk brake", "score": 0.8090892434120178}, {"class_id": "686", "label": "oil filter", "score": 0.0011125279124826193}, {"class_id": "479", "label": "car wheel", "score": 0.0011098770191892982}]}

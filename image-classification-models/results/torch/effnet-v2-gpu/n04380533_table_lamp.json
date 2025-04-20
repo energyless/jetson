@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "846", "label": "table lamp", "score": 0.8254097700119019}, {"class_id": "619", "label": "lampshade", "score": 0.02985409088432789}, {"class_id": "708", "label": "pedestal", "score": 0.002596628852188587}]}

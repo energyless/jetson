@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "920", "label": "traffic light", "score": 0.7611774802207947}, {"class_id": "919", "label": "street sign", "score": 0.004738560877740383}, {"class_id": "779", "label": "school bus", "score": 0.000951923371758312}]}

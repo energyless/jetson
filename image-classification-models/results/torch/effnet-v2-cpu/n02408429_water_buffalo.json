@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "346", "label": "water buffalo", "score": 0.7663207054138184}, {"class_id": "345", "label": "ox", "score": 0.026679884642362595}, {"class_id": "690", "label": "oxcart", "score": 0.004534029867500067}]}

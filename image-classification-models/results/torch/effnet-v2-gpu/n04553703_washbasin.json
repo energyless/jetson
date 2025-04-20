@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "896", "label": "washbasin", "score": 0.769591212272644}, {"class_id": "804", "label": "soap dispenser", "score": 0.017918437719345093}, {"class_id": "435", "label": "bathtub", "score": 0.004674541763961315}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "731", "label": "plunger", "score": 0.7334104180335999}, {"class_id": "861", "label": "toilet seat", "score": 0.0016697683604434133}, {"class_id": "999", "label": "toilet tissue", "score": 0.0015285759000107646}]}

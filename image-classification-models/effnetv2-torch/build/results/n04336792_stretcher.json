@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "830", "label": "stretcher", "score": 0.6385722756385803}, {"class_id": "407", "label": "ambulance", "score": 0.007293906062841415}, {"class_id": "678", "label": "neck brace", "score": 0.0033971061930060387}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "480", "label": "cash machine", "score": 0.7296257615089417}, {"class_id": "886", "label": "vending machine", "score": 0.002240861766040325}, {"class_id": "707", "label": "pay-phone", "score": 0.0020533879287540913}]}

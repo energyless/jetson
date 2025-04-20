@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "632", "label": "loudspeaker", "score": 0.7614346146583557}, {"class_id": "754", "label": "radio", "score": 0.01927553303539753}, {"class_id": "848", "label": "tape player", "score": 0.00955948606133461}]}

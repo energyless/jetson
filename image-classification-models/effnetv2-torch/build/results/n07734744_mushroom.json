@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "947", "label": "mushroom", "score": 0.8143253922462463}, {"class_id": "992", "label": "agaric", "score": 0.006774315144866705}, {"class_id": "995", "label": "earthstar", "score": 0.0048674303106963634}]}

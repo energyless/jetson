@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "525", "label": "dam", "score": 0.8163169026374817}, {"class_id": "460", "label": "breakwater", "score": 0.0009245495311915874}, {"class_id": "888", "label": "viaduct", "score": 0.0008731531561352313}]}

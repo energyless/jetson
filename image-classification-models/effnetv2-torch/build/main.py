@@ -10,7 +10,13 @@ from PIL import Image
 
 # Load the EfficientNetV2 model globally with pre-trained ImageNet weights.
 # Load the EfficientNetV2 model globally with pre-trained ImageNet weights.
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+if os.environ["USE_GPU"] == "true":
+    device = torch.device("cuda")
+else:
+    device = torch.device("cpu")
+
+
 print(f"Using device: {device}", file=sys.stderr)
 
 weights = EfficientNet_V2_S_Weights.DEFAULT
@@ -28,7 +34,7 @@ def main(args):
     # Decode the base64 image and open it using PIL.
     img_data = base64.b64decode(args["image"])
     img = Image.open(BytesIO(img_data)).convert("RGB")
-    input_tensor = preprocess(img).unsqueeze(0)
+    input_tensor = preprocess(img).unsqueeze(0).to(device)
 
     # Run inference without gradient tracking.
     with torch.no_grad():
@@ -40,7 +46,7 @@ def main(args):
 
     # Load ImageNet class names from a file (same as your original torch script).
     try:
-        with open("/action/imagenet_classes.txt") as f:
+        with open("imagenet_classes.txt") as f:
             classes = [line.strip() for line in f]
     except Exception as e:
         raise RuntimeError(f"Error loading imagenet classes file: {str(e)}")
@@ -57,14 +63,17 @@ def main(args):
 
 if __name__ == "__main__":
     try:
-        os.makedirs("/results")
         image_data_files = os.listdir("/images")
-        for image_data_file in image_data_files:
+        total = len(image_data_files)
+        for i, image_data_file in enumerate(image_data_files):
+            if i%100 == 0:
+                print(f"done: {i+1}/{total}")
             fullpath = f"/images/{image_data_file}"
             data_file = open(fullpath, "r")
             output = main(json.load(data_file))
             f = open(f"/results/{image_data_file}", "w")
             json.dump(output, f)
+            f.close()
 
 
     except Exception as e:

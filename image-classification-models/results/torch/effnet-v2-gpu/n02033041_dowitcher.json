@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "142", "label": "dowitcher", "score": 0.7923663258552551}, {"class_id": "140", "label": "red-backed sandpiper", "score": 0.0032843612134456635}, {"class_id": "141", "label": "redshank", "score": 0.0015458950074389577}]}

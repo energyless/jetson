@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "872", "label": "tripod", "score": 0.6520373821258545}, {"class_id": "523", "label": "crutch", "score": 0.06211044639348984}, {"class_id": "843", "label": "swing", "score": 0.003601331962272525}]}

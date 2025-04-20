@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "416", "label": "balance beam", "score": 0.7621737122535706}, {"class_id": "602", "label": "horizontal bar", "score": 0.022749919444322586}, {"class_id": "702", "label": "parallel bars", "score": 0.018964312970638275}]}

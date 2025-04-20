@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "886", "label": "vending machine", "score": 0.787356436252594}, {"class_id": "737", "label": "pop bottle", "score": 0.0017414189642295241}, {"class_id": "800", "label": "slot", "score": 0.0015300508821383119}]}

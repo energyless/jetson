@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "343", "label": "warthog", "score": 0.7484363913536072}, {"class_id": "342", "label": "wild boar", "score": 0.025445232167840004}, {"class_id": "101", "label": "tusker", "score": 0.0031570522114634514}]}

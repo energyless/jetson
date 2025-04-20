@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "744", "label": "projectile", "score": 0.3852832019329071}, {"class_id": "657", "label": "missile", "score": 0.30639031529426575}, {"class_id": "895", "label": "warplane", "score": 0.028106652200222015}]}

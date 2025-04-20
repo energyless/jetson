@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "980", "label": "volcano", "score": 0.7659943103790283}, {"class_id": "979", "label": "valley", "score": 0.0023726748768240213}, {"class_id": "972", "label": "cliff", "score": 0.0019066223176196218}]}

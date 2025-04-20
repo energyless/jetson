@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "458", "label": "brass", "score": 0.6733372807502747}, {"class_id": "640", "label": "manhole cover", "score": 0.07514646649360657}, {"class_id": "835", "label": "sundial", "score": 0.004603395238518715}]}

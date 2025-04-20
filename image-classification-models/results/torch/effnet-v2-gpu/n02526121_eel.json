@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "390", "label": "eel", "score": 0.7581008076667786}, {"class_id": "114", "label": "slug", "score": 0.01043749414384365}, {"class_id": "0", "label": "tench", "score": 0.00742100365459919}]}

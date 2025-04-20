@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "848", "label": "tape player", "score": 0.3785877525806427}, {"class_id": "482", "label": "cassette player", "score": 0.20357085764408112}, {"class_id": "485", "label": "CD player", "score": 0.16371041536331177}]}

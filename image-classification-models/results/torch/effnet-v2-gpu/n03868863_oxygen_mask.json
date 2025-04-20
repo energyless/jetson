@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "691", "label": "oxygen mask", "score": 0.8071508407592773}, {"class_id": "570", "label": "gasmask", "score": 0.003064035438001156}, {"class_id": "712", "label": "Petri dish", "score": 0.0024062106385827065}]}

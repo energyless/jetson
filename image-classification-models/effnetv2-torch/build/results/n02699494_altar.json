@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "406", "label": "altar", "score": 0.5534453988075256}, {"class_id": "497", "label": "church", "score": 0.09424587339162827}, {"class_id": "884", "label": "vault", "score": 0.06317416578531265}]}

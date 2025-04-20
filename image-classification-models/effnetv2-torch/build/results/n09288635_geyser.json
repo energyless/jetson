@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "974", "label": "geyser", "score": 0.8272056579589844}, {"class_id": "980", "label": "volcano", "score": 0.0018801685655489564}, {"class_id": "562", "label": "fountain", "score": 0.0008744413498789072}]}

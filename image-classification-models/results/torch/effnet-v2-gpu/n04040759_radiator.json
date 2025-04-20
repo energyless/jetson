@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "753", "label": "radiator", "score": 0.6657793521881104}, {"class_id": "896", "label": "washbasin", "score": 0.01680557243525982}, {"class_id": "648", "label": "medicine chest", "score": 0.006902374792844057}]}

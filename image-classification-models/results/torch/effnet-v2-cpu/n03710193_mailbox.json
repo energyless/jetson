@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "637", "label": "mailbox", "score": 0.7831620573997498}, {"class_id": "695", "label": "padlock", "score": 0.0012584602227434516}, {"class_id": "707", "label": "pay-phone", "score": 0.0009994794381782413}]}

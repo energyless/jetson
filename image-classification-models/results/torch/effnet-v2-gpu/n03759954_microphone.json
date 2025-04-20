@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "650", "label": "microphone", "score": 0.9345985651016235}, {"class_id": "589", "label": "hand blower", "score": 0.003901700722053647}, {"class_id": "754", "label": "radio", "score": 0.0010269966442137957}]}

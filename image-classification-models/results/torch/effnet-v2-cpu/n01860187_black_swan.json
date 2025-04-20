@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "100", "label": "black swan", "score": 0.8039052486419678}, {"class_id": "99", "label": "goose", "score": 0.0027174539864063263}, {"class_id": "97", "label": "drake", "score": 0.0011317532043904066}]}

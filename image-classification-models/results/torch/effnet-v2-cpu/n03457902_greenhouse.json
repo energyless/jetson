@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "580", "label": "greenhouse", "score": 0.7421327829360962}, {"class_id": "738", "label": "pot", "score": 0.003901965217664838}, {"class_id": "706", "label": "patio", "score": 0.0012124814093112946}]}

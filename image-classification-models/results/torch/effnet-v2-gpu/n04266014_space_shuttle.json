@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "812", "label": "space shuttle", "score": 0.787119448184967}, {"class_id": "657", "label": "missile", "score": 0.0008964405278675258}, {"class_id": "404", "label": "airliner", "score": 0.0008755375747568905}]}

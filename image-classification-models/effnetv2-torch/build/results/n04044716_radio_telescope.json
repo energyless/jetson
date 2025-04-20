@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "755", "label": "radio telescope", "score": 0.791451632976532}, {"class_id": "807", "label": "solar dish", "score": 0.009785293601453304}, {"class_id": "754", "label": "radio", "score": 0.003261302364990115}]}

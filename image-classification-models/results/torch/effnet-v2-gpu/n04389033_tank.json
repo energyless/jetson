@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "847", "label": "tank", "score": 0.7693701386451721}, {"class_id": "408", "label": "amphibian", "score": 0.010409016162157059}, {"class_id": "586", "label": "half track", "score": 0.004626065958291292}]}

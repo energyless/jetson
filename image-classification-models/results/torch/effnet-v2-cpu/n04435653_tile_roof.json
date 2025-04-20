@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "858", "label": "tile roof", "score": 0.7520682215690613}, {"class_id": "807", "label": "solar dish", "score": 0.006941451691091061}, {"class_id": "538", "label": "dome", "score": 0.006608153693377972}]}

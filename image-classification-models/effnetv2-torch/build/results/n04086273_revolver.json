@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "763", "label": "revolver", "score": 0.7077403664588928}, {"class_id": "597", "label": "holster", "score": 0.004617366474121809}, {"class_id": "764", "label": "rifle", "score": 0.003325772238895297}]}
