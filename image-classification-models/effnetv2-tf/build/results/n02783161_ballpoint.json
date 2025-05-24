@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02783161", "label": "ballpoint", "score": 0.7412294149398804}, {"class_id": "n03388183", "label": "fountain_pen", "score": 0.08394152671098709}, {"class_id": "n04376876", "label": "syringe", "score": 0.01654078997671604}]}

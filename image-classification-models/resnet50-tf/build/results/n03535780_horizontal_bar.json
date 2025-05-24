@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "602", "label": "horizontal bar", "score": 0.7145957350730896}, {"class_id": "702", "label": "parallel bars", "score": 0.016279462724924088}, {"class_id": "733", "label": "pole", "score": 0.0022037026938050985}]}

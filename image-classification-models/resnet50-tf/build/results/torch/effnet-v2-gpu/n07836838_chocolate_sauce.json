@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "disk_brake", "score": 0.1324325054883957}, {"class_id": "1", "label": "chocolate_sauce", "score": 0.10426626354455948}, {"class_id": "2", "label": "plunger", "score": 0.09187348186969757}]}

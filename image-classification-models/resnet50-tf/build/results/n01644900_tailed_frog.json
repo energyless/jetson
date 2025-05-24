@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "32", "label": "tailed frog", "score": 0.7647523283958435}, {"class_id": "30", "label": "bullfrog", "score": 0.015676096081733704}, {"class_id": "26", "label": "common newt", "score": 0.005292368587106466}]}

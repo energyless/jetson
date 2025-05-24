@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "partridge", "score": 0.7165544033050537}, {"class_id": "1", "label": "ruffed_grouse", "score": 0.28169694542884827}, {"class_id": "2", "label": "quail", "score": 0.0010325179900974035}]}

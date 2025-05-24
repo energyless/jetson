@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "lab_coat", "score": 0.4747917354106903}, {"class_id": "1", "label": "barbershop", "score": 0.08382546156644821}, {"class_id": "2", "label": "turnstile", "score": 0.06150495633482933}]}

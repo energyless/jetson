@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "street_sign", "score": 0.8438615202903748}, {"class_id": "1", "label": "scoreboard", "score": 0.028978774324059486}, {"class_id": "2", "label": "park_bench", "score": 0.026210220530629158}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "standard_schnauzer", "score": 0.9650750756263733}, {"class_id": "1", "label": "giant_schnauzer", "score": 0.02071545645594597}, {"class_id": "2", "label": "miniature_schnauzer", "score": 0.01306845247745514}]}

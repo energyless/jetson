@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "900", "label": "water tower", "score": 0.8487745523452759}, {"class_id": "437", "label": "beacon", "score": 0.0009732829639688134}, {"class_id": "405", "label": "airship", "score": 0.0008382953819818795}]}

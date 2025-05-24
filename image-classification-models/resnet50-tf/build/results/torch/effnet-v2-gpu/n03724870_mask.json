@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Indian_elephant", "score": 0.20787888765335083}, {"class_id": "1", "label": "mask", "score": 0.20676158368587494}, {"class_id": "2", "label": "vestment", "score": 0.14092589914798737}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "870", "label": "tricycle", "score": 0.6825080513954163}, {"class_id": "657", "label": "missile", "score": 0.021557584404945374}, {"class_id": "612", "label": "jinrikisha", "score": 0.019269639626145363}]}

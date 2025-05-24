@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "walking_stick", "score": 0.9999516010284424}, {"class_id": "1", "label": "mantis", "score": 2.857824983948376e-05}, {"class_id": "2", "label": "window_screen", "score": 6.59545776215964e-06}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "space_heater", "score": 0.9898927807807922}, {"class_id": "1", "label": "chime", "score": 0.0018890055362135172}, {"class_id": "2", "label": "mousetrap", "score": 0.0012794481590390205}]}

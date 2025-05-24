@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "329", "label": "sea cucumber", "score": 0.8529402613639832}, {"class_id": "110", "label": "flatworm", "score": 0.001917035668157041}, {"class_id": "114", "label": "slug", "score": 0.0012234192108735442}]}

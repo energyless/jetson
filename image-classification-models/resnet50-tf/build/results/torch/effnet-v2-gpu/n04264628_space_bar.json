@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "typewriter_keyboard", "score": 0.8065318465232849}, {"class_id": "1", "label": "space_bar", "score": 0.19342593848705292}, {"class_id": "2", "label": "computer_keyboard", "score": 2.7737358323065564e-05}]}

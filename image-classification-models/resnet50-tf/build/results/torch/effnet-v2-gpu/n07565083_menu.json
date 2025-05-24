@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "menu", "score": 0.9253876805305481}, {"class_id": "1", "label": "comic_book", "score": 0.030893269926309586}, {"class_id": "2", "label": "binder", "score": 0.013658135198056698}]}

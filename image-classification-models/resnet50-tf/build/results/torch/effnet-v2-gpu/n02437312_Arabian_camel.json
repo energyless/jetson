@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Arabian_camel", "score": 0.9791182279586792}, {"class_id": "1", "label": "seashore", "score": 0.008951058611273766}, {"class_id": "2", "label": "impala", "score": 0.002226833254098892}]}

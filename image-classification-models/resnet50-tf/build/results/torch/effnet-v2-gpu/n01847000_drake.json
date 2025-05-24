@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "drake", "score": 0.9994138479232788}, {"class_id": "1", "label": "red-breasted_merganser", "score": 0.0003220042563043535}, {"class_id": "2", "label": "English_springer", "score": 4.527200508164242e-05}]}

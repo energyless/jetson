@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "American_Staffordshire_terrier", "score": 0.6101958155632019}, {"class_id": "1", "label": "Staffordshire_bullterrier", "score": 0.3871796429157257}, {"class_id": "2", "label": "bull_mastiff", "score": 0.001813259208574891}]}

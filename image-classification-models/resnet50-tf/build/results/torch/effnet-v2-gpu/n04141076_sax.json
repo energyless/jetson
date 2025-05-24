@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sax", "score": 0.6540420651435852}, {"class_id": "1", "label": "oboe", "score": 0.15283793210983276}, {"class_id": "2", "label": "bassoon", "score": 0.0907922312617302}]}

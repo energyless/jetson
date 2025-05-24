@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sea_urchin", "score": 0.8572179675102234}, {"class_id": "1", "label": "brain_coral", "score": 0.07083867490291595}, {"class_id": "2", "label": "coral_reef", "score": 0.018740994855761528}]}

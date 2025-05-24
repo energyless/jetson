@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "desktop_computer", "score": 0.4164546728134155}, {"class_id": "1", "label": "mouse", "score": 0.1289314478635788}, {"class_id": "2", "label": "desk", "score": 0.05926501005887985}]}

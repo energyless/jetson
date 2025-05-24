@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n07715103", "label": "cauliflower", "score": 0.928962230682373}, {"class_id": "n07714571", "label": "head_cabbage", "score": 0.005567636806517839}, {"class_id": "n03461385", "label": "grocery_store", "score": 0.0018124174093827605}]}

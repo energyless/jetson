@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "maypole", "score": 0.9998112320899963}, {"class_id": "1", "label": "pole", "score": 5.511884955922142e-05}, {"class_id": "2", "label": "stupa", "score": 3.7989066186128184e-05}]}

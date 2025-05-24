@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "816", "label": "spindle", "score": 0.7438139915466309}, {"class_id": "911", "label": "wool", "score": 0.0014232225948944688}, {"class_id": "758", "label": "reel", "score": 0.0008217686554417014}]}

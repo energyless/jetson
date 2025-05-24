@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "volcano", "score": 0.508783221244812}, {"class_id": "1", "label": "valley", "score": 0.21110239624977112}, {"class_id": "2", "label": "yurt", "score": 0.0799064189195633}]}

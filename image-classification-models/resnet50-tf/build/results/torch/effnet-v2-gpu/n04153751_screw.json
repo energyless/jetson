@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "screw", "score": 0.9996463060379028}, {"class_id": "1", "label": "nail", "score": 0.0003535519354045391}, {"class_id": "2", "label": "dumbbell", "score": 4.474227921491547e-08}]}

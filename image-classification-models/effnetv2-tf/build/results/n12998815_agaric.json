@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n12998815", "label": "agaric", "score": 0.7390756607055664}, {"class_id": "n07734744", "label": "mushroom", "score": 0.14118364453315735}, {"class_id": "n13054560", "label": "bolete", "score": 0.0038907548878341913}]}

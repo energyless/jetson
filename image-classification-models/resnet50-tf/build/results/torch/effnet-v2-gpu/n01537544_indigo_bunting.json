@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "indigo_bunting", "score": 0.9996722936630249}, {"class_id": "1", "label": "European_gallinule", "score": 9.038006101036444e-05}, {"class_id": "2", "label": "goldfinch", "score": 7.745758921373636e-05}]}

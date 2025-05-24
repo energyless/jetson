@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "571", "label": "gas pump", "score": 0.818017840385437}, {"class_id": "778", "label": "scale", "score": 0.000731928797904402}, {"class_id": "707", "label": "pay-phone", "score": 0.0007067693513818085}]}

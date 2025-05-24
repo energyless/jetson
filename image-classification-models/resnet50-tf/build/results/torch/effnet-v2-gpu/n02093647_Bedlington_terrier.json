@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Bedlington_terrier", "score": 0.9999722242355347}, {"class_id": "1", "label": "standard_poodle", "score": 1.0725632819230668e-05}, {"class_id": "2", "label": "Kerry_blue_terrier", "score": 8.609629730926827e-06}]}

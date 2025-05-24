@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04335435", "label": "streetcar", "score": 0.7797879576683044}, {"class_id": "n04487081", "label": "trolleybus", "score": 0.07593227177858353}, {"class_id": "n03769881", "label": "minibus", "score": 0.009723488241434097}]}

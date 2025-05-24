@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Great_Dane", "score": 0.8507658243179321}, {"class_id": "1", "label": "German_short-haired_pointer", "score": 0.05478823184967041}, {"class_id": "2", "label": "Weimaraner", "score": 0.03622451797127724}]}

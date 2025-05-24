@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "vending_machine", "score": 0.999825656414032}, {"class_id": "1", "label": "slot", "score": 0.00014420642401091754}, {"class_id": "2", "label": "cash_machine", "score": 1.5600782717228867e-05}]}

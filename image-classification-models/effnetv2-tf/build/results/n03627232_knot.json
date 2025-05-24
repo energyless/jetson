@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03627232", "label": "knot", "score": 0.90809565782547}, {"class_id": "n03065424", "label": "coil", "score": 0.00835226010531187}, {"class_id": "n02999410", "label": "chain", "score": 0.0031113147269934416}]}

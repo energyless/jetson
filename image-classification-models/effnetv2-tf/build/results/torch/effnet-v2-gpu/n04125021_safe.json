@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04125021", "label": "safe", "score": 0.9678283929824829}, {"class_id": "n03075370", "label": "combination_lock", "score": 0.004581408109515905}, {"class_id": "n02840245", "label": "binder", "score": 0.003024303587153554}]}

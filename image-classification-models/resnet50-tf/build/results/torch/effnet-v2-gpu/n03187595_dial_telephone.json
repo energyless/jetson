@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "dial_telephone", "score": 0.9941731095314026}, {"class_id": "1", "label": "pay-phone", "score": 0.0058204070664942265}, {"class_id": "2", "label": "combination_lock", "score": 4.021465429104865e-06}]}

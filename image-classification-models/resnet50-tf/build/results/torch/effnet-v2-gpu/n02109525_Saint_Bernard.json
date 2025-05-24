@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Saint_Bernard", "score": 0.9969016313552856}, {"class_id": "1", "label": "Bernese_mountain_dog", "score": 0.0015015092212706804}, {"class_id": "2", "label": "Newfoundland", "score": 0.0008109186310321093}]}

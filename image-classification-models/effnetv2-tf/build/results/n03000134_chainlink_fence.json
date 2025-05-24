@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03000134", "label": "chainlink_fence", "score": 0.9161412715911865}, {"class_id": "n04604644", "label": "worm_fence", "score": 0.009922919794917107}, {"class_id": "n04005630", "label": "prison", "score": 0.008699702098965645}]}

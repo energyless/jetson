@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "hard_disc", "score": 0.9999765157699585}, {"class_id": "1", "label": "modem", "score": 1.4601398106606212e-05}, {"class_id": "2", "label": "oscilloscope", "score": 5.209521987126209e-06}]}

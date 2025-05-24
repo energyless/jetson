@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02988304", "label": "CD_player", "score": 0.4360673427581787}, {"class_id": "n03691459", "label": "loudspeaker", "score": 0.11523371189832687}, {"class_id": "n04162706", "label": "seat_belt", "score": 0.08293946832418442}]}

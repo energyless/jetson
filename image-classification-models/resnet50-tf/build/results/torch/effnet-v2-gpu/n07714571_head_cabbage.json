@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "head_cabbage", "score": 0.9998875856399536}, {"class_id": "1", "label": "cauliflower", "score": 0.00010091068543260917}, {"class_id": "2", "label": "shower_cap", "score": 7.434484359691851e-06}]}

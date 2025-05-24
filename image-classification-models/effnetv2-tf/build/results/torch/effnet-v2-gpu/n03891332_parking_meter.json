@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03891332", "label": "parking_meter", "score": 0.6066276431083679}, {"class_id": "n03902125", "label": "pay-phone", "score": 0.1318422555923462}, {"class_id": "n02747177", "label": "ashcan", "score": 0.026938673108816147}]}

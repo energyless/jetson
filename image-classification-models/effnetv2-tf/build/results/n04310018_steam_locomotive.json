@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04310018", "label": "steam_locomotive", "score": 0.6155673265457153}, {"class_id": "n03895866", "label": "passenger_car", "score": 0.17751042544841766}, {"class_id": "n03272562", "label": "electric_locomotive", "score": 0.028217000886797905}]}

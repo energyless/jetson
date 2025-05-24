@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "spotlight", "score": 0.9248243570327759}, {"class_id": "1", "label": "chain_saw", "score": 0.014698966406285763}, {"class_id": "2", "label": "reel", "score": 0.013484773226082325}]}

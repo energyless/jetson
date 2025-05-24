@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "669", "label": "mosquito net", "score": 0.7826324701309204}, {"class_id": "564", "label": "four-poster", "score": 0.003719218075275421}, {"class_id": "520", "label": "crib", "score": 0.0011962461285293102}]}

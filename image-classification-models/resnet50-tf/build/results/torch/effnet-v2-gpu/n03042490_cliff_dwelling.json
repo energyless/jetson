@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cliff_dwelling", "score": 0.7135688066482544}, {"class_id": "1", "label": "cliff", "score": 0.1564835011959076}, {"class_id": "2", "label": "promontory", "score": 0.10469219833612442}]}

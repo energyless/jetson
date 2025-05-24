@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "golf_ball", "score": 0.99958735704422}, {"class_id": "1", "label": "thimble", "score": 0.00029144753352738917}, {"class_id": "2", "label": "spotlight", "score": 2.274049802508671e-05}]}

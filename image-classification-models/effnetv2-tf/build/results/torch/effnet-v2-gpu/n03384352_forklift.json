@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03384352", "label": "forklift", "score": 0.9032106995582581}, {"class_id": "n03126707", "label": "crane", "score": 0.008179348893463612}, {"class_id": "n04461696", "label": "tow_truck", "score": 0.0020108928438276052}]}

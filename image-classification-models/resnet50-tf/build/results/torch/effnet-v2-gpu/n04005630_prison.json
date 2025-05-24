@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "prison", "score": 0.12278630584478378}, {"class_id": "1", "label": "macaw", "score": 0.11256302893161774}, {"class_id": "2", "label": "umbrella", "score": 0.10203883796930313}]}

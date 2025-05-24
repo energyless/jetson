@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bottlecap", "score": 0.8946005702018738}, {"class_id": "1", "label": "pick", "score": 0.024421000853180885}, {"class_id": "2", "label": "lens_cap", "score": 0.009076499380171299}]}

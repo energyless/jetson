@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n01914609", "label": "sea_anemone", "score": 0.8899085521697998}, {"class_id": "n02319095", "label": "sea_urchin", "score": 0.02238672599196434}, {"class_id": "n01910747", "label": "jellyfish", "score": 0.0019143687095493078}]}

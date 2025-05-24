@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Tibetan_mastiff", "score": 0.9999140501022339}, {"class_id": "1", "label": "Newfoundland", "score": 3.938820009352639e-05}, {"class_id": "2", "label": "Tibetan_terrier", "score": 3.176464088028297e-05}]}

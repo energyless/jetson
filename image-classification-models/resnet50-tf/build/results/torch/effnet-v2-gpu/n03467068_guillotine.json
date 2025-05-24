@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "guillotine", "score": 0.9993236064910889}, {"class_id": "1", "label": "bell_cote", "score": 0.00021446349273901433}, {"class_id": "2", "label": "patio", "score": 0.00019925882224924862}]}

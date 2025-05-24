@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cinema", "score": 0.9999279975891113}, {"class_id": "1", "label": "restaurant", "score": 4.576353239826858e-05}, {"class_id": "2", "label": "barbershop", "score": 2.1575393475359306e-05}]}

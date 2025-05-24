@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "langur", "score": 0.530960738658905}, {"class_id": "1", "label": "colobus", "score": 0.4649149775505066}, {"class_id": "2", "label": "guenon", "score": 0.0011941564735025167}]}

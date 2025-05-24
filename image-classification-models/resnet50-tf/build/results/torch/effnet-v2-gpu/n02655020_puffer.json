@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "puffer", "score": 0.9950834512710571}, {"class_id": "1", "label": "eel", "score": 0.004626857116818428}, {"class_id": "2", "label": "rock_beauty", "score": 8.713996794540435e-05}]}

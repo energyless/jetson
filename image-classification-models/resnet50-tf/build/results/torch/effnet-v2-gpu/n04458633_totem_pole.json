@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "totem_pole", "score": 0.9993801116943359}, {"class_id": "1", "label": "pole", "score": 0.0006131235277280211}, {"class_id": "2", "label": "castle", "score": 8.454549060843419e-07}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "hook", "score": 0.7151973247528076}, {"class_id": "1", "label": "switch", "score": 0.18871884047985077}, {"class_id": "2", "label": "padlock", "score": 0.05184979364275932}]}

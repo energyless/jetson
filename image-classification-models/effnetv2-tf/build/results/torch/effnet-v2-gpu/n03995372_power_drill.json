@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04154565", "label": "screwdriver", "score": 0.40583398938179016}, {"class_id": "n03995372", "label": "power_drill", "score": 0.15821294486522675}, {"class_id": "n03483316", "label": "hand_blower", "score": 0.08072830736637115}]}

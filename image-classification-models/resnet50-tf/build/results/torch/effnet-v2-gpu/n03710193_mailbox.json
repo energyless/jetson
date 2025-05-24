@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "mailbox", "score": 0.9998735189437866}, {"class_id": "1", "label": "cash_machine", "score": 5.029089152230881e-05}, {"class_id": "2", "label": "safe", "score": 1.710997639747802e-05}]}

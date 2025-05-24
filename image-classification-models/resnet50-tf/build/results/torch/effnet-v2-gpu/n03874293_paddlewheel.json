@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "paddlewheel", "score": 0.999996542930603}, {"class_id": "1", "label": "fireboat", "score": 9.432159799871442e-07}, {"class_id": "2", "label": "shopping_cart", "score": 8.222741598729044e-07}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "volleyball", "score": 0.9998582601547241}, {"class_id": "1", "label": "basketball", "score": 0.00013575692719314247}, {"class_id": "2", "label": "knee_pad", "score": 3.8718749237887096e-06}]}

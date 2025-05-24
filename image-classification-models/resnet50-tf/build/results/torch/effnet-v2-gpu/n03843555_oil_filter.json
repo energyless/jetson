@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "oil_filter", "score": 0.3729012906551361}, {"class_id": "1", "label": "thimble", "score": 0.20209354162216187}, {"class_id": "2", "label": "face_powder", "score": 0.09967804700136185}]}

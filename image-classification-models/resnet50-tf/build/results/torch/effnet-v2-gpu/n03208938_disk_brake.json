@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "disk_brake", "score": 0.7258522510528564}, {"class_id": "1", "label": "oil_filter", "score": 0.1058950275182724}, {"class_id": "2", "label": "Polaroid_camera", "score": 0.03975789248943329}]}

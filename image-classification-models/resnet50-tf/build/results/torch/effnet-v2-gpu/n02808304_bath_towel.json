@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bath_towel", "score": 0.9866777658462524}, {"class_id": "1", "label": "sweatshirt", "score": 0.003896564245223999}, {"class_id": "2", "label": "pajama", "score": 0.002019260311499238}]}

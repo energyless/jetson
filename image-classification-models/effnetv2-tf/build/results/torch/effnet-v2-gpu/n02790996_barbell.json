@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02790996", "label": "barbell", "score": 0.957195520401001}, {"class_id": "n03255030", "label": "dumbbell", "score": 0.0009615683811716735}, {"class_id": "n03535780", "label": "horizontal_bar", "score": 0.0005291138659231365}]}

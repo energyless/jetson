@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "coral_fungus", "score": 0.6360846757888794}, {"class_id": "1", "label": "mushroom", "score": 0.22634923458099365}, {"class_id": "2", "label": "stinkhorn", "score": 0.0570746548473835}]}

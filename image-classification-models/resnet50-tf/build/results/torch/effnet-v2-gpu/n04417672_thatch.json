@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "thatch", "score": 0.3305377960205078}, {"class_id": "1", "label": "kimono", "score": 0.25234636664390564}, {"class_id": "2", "label": "military_uniform", "score": 0.14550399780273438}]}

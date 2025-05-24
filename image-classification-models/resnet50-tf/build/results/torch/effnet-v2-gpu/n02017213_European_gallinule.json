@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "European_gallinule", "score": 0.9997166991233826}, {"class_id": "1", "label": "American_coot", "score": 0.00010550434672040865}, {"class_id": "2", "label": "hen", "score": 6.120605394244194e-05}]}

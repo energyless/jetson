@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Airedale", "score": 0.5860241651535034}, {"class_id": "1", "label": "Lakeland_terrier", "score": 0.251238077878952}, {"class_id": "2", "label": "Irish_terrier", "score": 0.1230267807841301}]}

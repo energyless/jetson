@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "china_cabinet", "score": 0.9998379945755005}, {"class_id": "1", "label": "entertainment_center", "score": 0.00010836775618372485}, {"class_id": "2", "label": "bookcase", "score": 2.8112677682656795e-05}]}

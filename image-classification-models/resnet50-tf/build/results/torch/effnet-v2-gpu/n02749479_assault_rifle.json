@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "assault_rifle", "score": 0.563998818397522}, {"class_id": "1", "label": "rifle", "score": 0.42709583044052124}, {"class_id": "2", "label": "power_drill", "score": 0.0012053708778694272}]}

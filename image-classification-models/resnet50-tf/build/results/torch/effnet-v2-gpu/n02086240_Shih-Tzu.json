@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Shih-Tzu", "score": 0.755854606628418}, {"class_id": "1", "label": "Lhasa", "score": 0.241440087556839}, {"class_id": "2", "label": "Tibetan_terrier", "score": 0.0013871402479708195}]}

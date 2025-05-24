@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "111", "label": "nematode", "score": 0.7901616096496582}, {"class_id": "110", "label": "flatworm", "score": 0.0013729640049859881}, {"class_id": "712", "label": "Petri dish", "score": 0.0011024586856365204}]}

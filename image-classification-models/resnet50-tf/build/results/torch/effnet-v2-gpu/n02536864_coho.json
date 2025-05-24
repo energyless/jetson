@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "coho", "score": 0.9973450303077698}, {"class_id": "1", "label": "gar", "score": 0.0013627078151330352}, {"class_id": "2", "label": "barracouta", "score": 0.0008163371821865439}]}

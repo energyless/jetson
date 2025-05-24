@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bulletproof_vest", "score": 0.9999713897705078}, {"class_id": "1", "label": "cuirass", "score": 1.1230747077206615e-05}, {"class_id": "2", "label": "military_uniform", "score": 8.965115739556495e-06}]}

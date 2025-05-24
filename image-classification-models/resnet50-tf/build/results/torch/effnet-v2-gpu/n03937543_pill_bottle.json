@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "wine_bottle", "score": 0.30226603150367737}, {"class_id": "1", "label": "pill_bottle", "score": 0.20842428505420685}, {"class_id": "2", "label": "medicine_chest", "score": 0.11394805461168289}]}

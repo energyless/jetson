@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "530", "label": "digital clock", "score": 0.7078061699867249}, {"class_id": "531", "label": "digital watch", "score": 0.011136330664157867}, {"class_id": "409", "label": "analog clock", "score": 0.002668010303750634}]}

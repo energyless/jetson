@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "printer", "score": 0.8323027491569519}, {"class_id": "1", "label": "photocopier", "score": 0.07276777923107147}, {"class_id": "2", "label": "laptop", "score": 0.024603279307484627}]}

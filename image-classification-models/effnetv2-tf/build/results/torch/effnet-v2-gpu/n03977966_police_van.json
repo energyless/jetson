@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04461696", "label": "tow_truck", "score": 0.308857262134552}, {"class_id": "n03796401", "label": "moving_van", "score": 0.07101651281118393}, {"class_id": "n03770679", "label": "minivan", "score": 0.0695246011018753}]}

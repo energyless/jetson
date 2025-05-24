@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "726", "label": "plane", "score": 0.8045860528945923}, {"class_id": "763", "label": "revolver", "score": 0.0007389569072984159}, {"class_id": "587", "label": "hammer", "score": 0.0006178070907481015}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "hammer", "score": 0.25739672780036926}, {"class_id": "1", "label": "plunger", "score": 0.10319732874631882}, {"class_id": "2", "label": "crutch", "score": 0.08420591056346893}]}

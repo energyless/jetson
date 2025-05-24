@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "knee_pad", "score": 0.8527265787124634}, {"class_id": "1", "label": "unicycle", "score": 0.03524930402636528}, {"class_id": "2", "label": "moped", "score": 0.018032604828476906}]}

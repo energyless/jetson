@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "candle", "score": 0.22585198283195496}, {"class_id": "1", "label": "rotisserie", "score": 0.19936291873455048}, {"class_id": "2", "label": "butcher_shop", "score": 0.1087196096777916}]}

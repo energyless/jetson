@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "101", "label": "tusker", "score": 0.6847220063209534}, {"class_id": "385", "label": "Indian elephant", "score": 0.08694884181022644}, {"class_id": "386", "label": "African elephant", "score": 0.03508816659450531}]}

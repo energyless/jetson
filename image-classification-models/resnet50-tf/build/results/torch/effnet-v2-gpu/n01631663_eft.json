@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "eft", "score": 0.9976861476898193}, {"class_id": "1", "label": "common_newt", "score": 0.00224221870303154}, {"class_id": "2", "label": "spotted_salamander", "score": 3.958186789532192e-05}]}

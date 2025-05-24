@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "neck_brace", "score": 0.25366297364234924}, {"class_id": "1", "label": "can_opener", "score": 0.16643385589122772}, {"class_id": "2", "label": "iron", "score": 0.11904193460941315}]}

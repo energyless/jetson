@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03216828", "label": "dock", "score": 0.7918853759765625}, {"class_id": "n04347754", "label": "submarine", "score": 0.01991261914372444}, {"class_id": "n04483307", "label": "trimaran", "score": 0.014378601685166359}]}

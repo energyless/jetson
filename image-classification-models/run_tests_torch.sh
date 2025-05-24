@@ -17,7 +17,7 @@ sleep 10
 sudo tegrastats --start --logfile effnetv2-torch-gpu.log &
 
 sleep 120
-docker run --name effnetv2gpu -e USE_GPU="true" -v ./results/torch/effnet-v2-gpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro effnetv2-torch:latest
+docker run --runtime=nvidia --name effnetv2gpu -e USE_GPU="true" -v ./results/torch/effnet-v2-gpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro effnetv2-torch:latest
 docker container stop effnetv2gpu
 docker container rm -f effnetv2gpu
 sleep 120
@@ -37,7 +37,7 @@ sleep 10
 sudo tegrastats --start --logfile resnet50-torch-gpu.log & 
 
 sleep 120
-docker run --name resnet50gpu -e USE_GPU="true" -v ./results/torch/resnet-50-gpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro resnet50-torch:latest
+docker run --runtime=nvidia --name resnet50gpu -e USE_GPU="true" -v ./results/torch/resnet-50-gpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro resnet50-torch:latest
 docker container stop resnet50gpu
 docker container rm -f resnet50gpu
 sleep 120
@@ -57,7 +57,7 @@ sleep 10
 sudo tegrastats --start --logfile effnetv2-torch-cpu.log &
 
 sleep 120
-docker run --name effnetv2cpu -e USE_GPU="false" -v ./results/torch/effnet-v2-cpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro effnetv2-torch:latest
+docker run --runtime=runc --name effnetv2cpu -e USE_GPU="false" -v ./results/torch/effnet-v2-cpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro effnetv2-torch:latest
 docker container stop effnetv2cpu
 docker container rm -f effnetv2cpu
 sleep 120
@@ -77,7 +77,7 @@ sleep 10
 sudo tegrastats --start --logfile resnet50-torch-cpu.log & 
 
 sleep 120
-docker run --name resnet50cpu -e USE_GPU="false" -v ./results/torch/resnet-50-cpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro resnet50-torch:latest
+docker run --runtime=runc --name resnet50cpu -e USE_GPU="false" -v ./results/torch/resnet-50-cpu:/results:rw -v /home/student/research/OW-workloads/test-images/images-json-format:/images:ro resnet50-torch:latest
 docker container stop resnet50cpu
 docker container rm -f resnet50cpu
 sleep 120

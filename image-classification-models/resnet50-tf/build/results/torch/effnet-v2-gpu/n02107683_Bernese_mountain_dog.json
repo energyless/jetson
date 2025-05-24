@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Bernese_mountain_dog", "score": 0.5852677226066589}, {"class_id": "1", "label": "Greater_Swiss_Mountain_dog", "score": 0.27945786714553833}, {"class_id": "2", "label": "Appenzeller", "score": 0.0713299885392189}]}

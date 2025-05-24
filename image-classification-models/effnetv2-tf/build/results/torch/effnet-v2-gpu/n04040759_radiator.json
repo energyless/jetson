@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04040759", "label": "radiator", "score": 0.41897526383399963}, {"class_id": "n04553703", "label": "washbasin", "score": 0.10827671736478806}, {"class_id": "n03761084", "label": "microwave", "score": 0.038135215640068054}]}

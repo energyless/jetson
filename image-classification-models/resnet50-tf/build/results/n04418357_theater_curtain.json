@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "854", "label": "theater curtain", "score": 0.76604825258255}, {"class_id": "819", "label": "stage", "score": 0.02236575074493885}, {"class_id": "885", "label": "velvet", "score": 0.003798749065026641}]}

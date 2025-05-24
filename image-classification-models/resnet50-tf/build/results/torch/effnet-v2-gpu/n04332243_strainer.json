@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "strainer", "score": 0.9855936169624329}, {"class_id": "1", "label": "loudspeaker", "score": 0.007650020532310009}, {"class_id": "2", "label": "fire_screen", "score": 0.0012815375812351704}]}

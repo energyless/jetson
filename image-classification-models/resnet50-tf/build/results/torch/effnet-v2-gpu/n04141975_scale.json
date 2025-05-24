@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "scale", "score": 0.9999068975448608}, {"class_id": "1", "label": "stopwatch", "score": 9.265722474083304e-05}, {"class_id": "2", "label": "barometer", "score": 2.0843592096753127e-07}]}

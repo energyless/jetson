@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "jigsaw_puzzle", "score": 1.0}, {"class_id": "1", "label": "soccer_ball", "score": 9.867599792823256e-12}, {"class_id": "2", "label": "bubble", "score": 2.5219856585045886e-12}]}

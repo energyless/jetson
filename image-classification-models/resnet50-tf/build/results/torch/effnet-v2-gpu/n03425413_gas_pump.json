@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "gas_pump", "score": 0.9914903044700623}, {"class_id": "1", "label": "cash_machine", "score": 0.006275217514485121}, {"class_id": "2", "label": "photocopier", "score": 0.0006823936710134149}]}

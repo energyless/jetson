@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04273569", "label": "speedboat", "score": 0.8958619236946106}, {"class_id": "n03662601", "label": "lifeboat", "score": 0.006459937430918217}, {"class_id": "n02704792", "label": "amphibian", "score": 0.002438229275867343}]}

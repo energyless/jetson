@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "671", "label": "mountain bike", "score": 0.6996750235557556}, {"class_id": "880", "label": "unicycle", "score": 0.02297462895512581}, {"class_id": "444", "label": "bicycle-built-for-two", "score": 0.01213920209556818}]}

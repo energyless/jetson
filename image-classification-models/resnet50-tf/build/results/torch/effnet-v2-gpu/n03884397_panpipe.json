@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "panpipe", "score": 0.9999915361404419}, {"class_id": "1", "label": "flute", "score": 3.1412769203598145e-06}, {"class_id": "2", "label": "comic_book", "score": 6.90274021053483e-07}]}

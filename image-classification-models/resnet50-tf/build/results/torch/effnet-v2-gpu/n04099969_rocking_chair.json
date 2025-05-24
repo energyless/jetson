@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "rocking_chair", "score": 0.9804359674453735}, {"class_id": "1", "label": "folding_chair", "score": 0.0021545537747442722}, {"class_id": "2", "label": "dining_table", "score": 0.0015606841770932078}]}

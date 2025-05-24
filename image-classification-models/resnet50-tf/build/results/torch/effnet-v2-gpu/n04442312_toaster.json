@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "toaster", "score": 0.9984515905380249}, {"class_id": "1", "label": "printer", "score": 0.0005985106690786779}, {"class_id": "2", "label": "projector", "score": 0.0005339819472283125}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "brain_coral", "score": 0.9996095299720764}, {"class_id": "1", "label": "coral_reef", "score": 0.00022126642579678446}, {"class_id": "2", "label": "eel", "score": 9.994034917326644e-05}]}

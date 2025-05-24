@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04209239", "label": "shower_curtain", "score": 0.9113109111785889}, {"class_id": "n02808440", "label": "bathtub", "score": 0.03441910818219185}, {"class_id": "n04493381", "label": "tub", "score": 0.010923180729150772}]}

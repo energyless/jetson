@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "nematode", "score": 0.9912331700325012}, {"class_id": "1", "label": "hook", "score": 0.008612976409494877}, {"class_id": "2", "label": "nail", "score": 0.00011679490853566676}]}

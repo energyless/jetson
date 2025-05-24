@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "783", "label": "screw", "score": 0.7823424339294434}, {"class_id": "677", "label": "nail", "score": 0.006326653994619846}, {"class_id": "784", "label": "screwdriver", "score": 0.00191268150229007}]}

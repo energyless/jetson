@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "fiddler_crab", "score": 0.9986252784729004}, {"class_id": "1", "label": "rock_crab", "score": 0.0005754066514782608}, {"class_id": "2", "label": "tick", "score": 0.00025308397016488016}]}

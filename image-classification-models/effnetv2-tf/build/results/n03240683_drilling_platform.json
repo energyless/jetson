@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03095699", "label": "container_ship", "score": 0.3179210424423218}, {"class_id": "n03240683", "label": "drilling_platform", "score": 0.13950490951538086}, {"class_id": "n03216828", "label": "dock", "score": 0.12533710896968842}]}

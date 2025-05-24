@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "monitor", "score": 0.43317899107933044}, {"class_id": "1", "label": "screen", "score": 0.346843421459198}, {"class_id": "2", "label": "television", "score": 0.06364170461893082}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "reel", "score": 0.9978398084640503}, {"class_id": "1", "label": "gasmask", "score": 0.0006462360615842044}, {"class_id": "2", "label": "tripod", "score": 0.00021878017287235707}]}

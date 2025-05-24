@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "projector", "score": 0.8211701512336731}, {"class_id": "1", "label": "sewing_machine", "score": 0.06072842329740524}, {"class_id": "2", "label": "safe", "score": 0.01906435750424862}]}

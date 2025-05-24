@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "rotisserie", "score": 0.9413067698478699}, {"class_id": "1", "label": "refrigerator", "score": 0.026568925008177757}, {"class_id": "2", "label": "microwave", "score": 0.019357435405254364}]}

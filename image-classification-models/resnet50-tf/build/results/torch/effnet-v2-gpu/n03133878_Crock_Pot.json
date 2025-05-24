@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Crock_Pot", "score": 0.6049858331680298}, {"class_id": "1", "label": "stove", "score": 0.3007335662841797}, {"class_id": "2", "label": "toaster", "score": 0.04198240488767624}]}

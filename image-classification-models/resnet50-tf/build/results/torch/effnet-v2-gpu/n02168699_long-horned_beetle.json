@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "long-horned_beetle", "score": 0.9643626809120178}, {"class_id": "1", "label": "walking_stick", "score": 0.012709426693618298}, {"class_id": "2", "label": "cricket", "score": 0.0064405715093016624}]}

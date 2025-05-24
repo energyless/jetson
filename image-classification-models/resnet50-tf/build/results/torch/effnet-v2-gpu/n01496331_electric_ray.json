@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "electric_ray", "score": 0.9256061315536499}, {"class_id": "1", "label": "strainer", "score": 0.04670065641403198}, {"class_id": "2", "label": "saltshaker", "score": 0.011958327144384384}]}

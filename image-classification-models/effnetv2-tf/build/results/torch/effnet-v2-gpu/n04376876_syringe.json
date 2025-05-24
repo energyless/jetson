@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04376876", "label": "syringe", "score": 0.9817482829093933}, {"class_id": "n03868863", "label": "oxygen_mask", "score": 0.0008587235934101045}, {"class_id": "n04154565", "label": "screwdriver", "score": 0.0006761454278603196}]}

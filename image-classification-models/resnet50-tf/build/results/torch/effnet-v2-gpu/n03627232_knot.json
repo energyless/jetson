@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "knot", "score": 0.6695109605789185}, {"class_id": "1", "label": "running_shoe", "score": 0.30313166975975037}, {"class_id": "2", "label": "swab", "score": 0.012074020691215992}]}

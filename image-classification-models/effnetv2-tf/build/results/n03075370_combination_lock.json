@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03075370", "label": "combination_lock", "score": 0.9201304912567139}, {"class_id": "n02877765", "label": "bottlecap", "score": 0.007686277385801077}, {"class_id": "n03874599", "label": "padlock", "score": 0.00394844263792038}]}

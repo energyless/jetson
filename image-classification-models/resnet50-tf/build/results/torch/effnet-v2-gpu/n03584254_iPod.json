@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "iPod", "score": 0.9999505281448364}, {"class_id": "1", "label": "remote_control", "score": 1.4473126611846965e-05}, {"class_id": "2", "label": "loudspeaker", "score": 7.041594471957069e-06}]}

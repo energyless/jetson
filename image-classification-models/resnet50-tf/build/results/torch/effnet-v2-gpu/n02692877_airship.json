@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "airship", "score": 0.9999991655349731}, {"class_id": "1", "label": "rugby_ball", "score": 8.600460432717227e-07}, {"class_id": "2", "label": "planetarium", "score": 3.1331747862850534e-08}]}

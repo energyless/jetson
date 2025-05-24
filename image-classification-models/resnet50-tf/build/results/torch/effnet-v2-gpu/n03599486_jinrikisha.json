@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "jinrikisha", "score": 0.4858134090900421}, {"class_id": "1", "label": "bicycle-built-for-two", "score": 0.17343932390213013}, {"class_id": "2", "label": "horse_cart", "score": 0.11773021519184113}]}

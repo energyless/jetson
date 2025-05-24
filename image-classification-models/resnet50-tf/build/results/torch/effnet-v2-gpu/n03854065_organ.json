@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "organ", "score": 0.999229907989502}, {"class_id": "1", "label": "altar", "score": 0.00046102420310489833}, {"class_id": "2", "label": "church", "score": 0.00025678268866613507}]}

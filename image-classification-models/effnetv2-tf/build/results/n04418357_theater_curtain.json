@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04418357", "label": "theater_curtain", "score": 0.9048192501068115}, {"class_id": "n04296562", "label": "stage", "score": 0.014262878336012363}, {"class_id": "n03032252", "label": "cinema", "score": 0.0037040349561721087}]}

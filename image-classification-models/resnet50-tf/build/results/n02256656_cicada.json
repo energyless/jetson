@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "316", "label": "cicada", "score": 0.8076364398002625}, {"class_id": "317", "label": "leafhopper", "score": 0.0031940231565386057}, {"class_id": "308", "label": "fly", "score": 0.0011277130106464028}]}

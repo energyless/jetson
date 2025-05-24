@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "stethoscope", "score": 0.9580492973327637}, {"class_id": "1", "label": "stopwatch", "score": 0.010871785692870617}, {"class_id": "2", "label": "lens_cap", "score": 0.003217686666175723}]}

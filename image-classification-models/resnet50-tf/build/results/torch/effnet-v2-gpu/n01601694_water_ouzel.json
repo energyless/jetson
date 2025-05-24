@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "water_ouzel", "score": 0.9996408224105835}, {"class_id": "1", "label": "European_gallinule", "score": 0.00011389481369405985}, {"class_id": "2", "label": "American_coot", "score": 8.420395897701383e-05}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02687172", "label": "aircraft_carrier", "score": 0.8524084091186523}, {"class_id": "n03216828", "label": "dock", "score": 0.00628774706274271}, {"class_id": "n03240683", "label": "drilling_platform", "score": 0.005735165439546108}]}

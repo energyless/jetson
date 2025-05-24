@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "snowmobile", "score": 0.9942998886108398}, {"class_id": "1", "label": "ski", "score": 0.0012489660875871778}, {"class_id": "2", "label": "backpack", "score": 0.0011707479134202003}]}

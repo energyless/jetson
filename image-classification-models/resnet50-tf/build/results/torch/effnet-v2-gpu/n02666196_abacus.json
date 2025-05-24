@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "abacus", "score": 0.9999529123306274}, {"class_id": "1", "label": "screwdriver", "score": 4.4524898839881644e-05}, {"class_id": "2", "label": "dumbbell", "score": 7.740444516457501e-07}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "balance_beam", "score": 0.768698513507843}, {"class_id": "1", "label": "theater_curtain", "score": 0.14945638179779053}, {"class_id": "2", "label": "parallel_bars", "score": 0.028587020933628082}]}

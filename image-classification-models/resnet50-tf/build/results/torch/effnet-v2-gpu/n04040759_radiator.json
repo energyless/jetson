@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "washbasin", "score": 0.511643648147583}, {"class_id": "1", "label": "microwave", "score": 0.10146444290876389}, {"class_id": "2", "label": "medicine_chest", "score": 0.08249236643314362}]}

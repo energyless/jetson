@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "pedestal", "score": 0.9949172735214233}, {"class_id": "1", "label": "acoustic_guitar", "score": 0.0018801232799887657}, {"class_id": "2", "label": "water_tower", "score": 0.0016943918308243155}]}

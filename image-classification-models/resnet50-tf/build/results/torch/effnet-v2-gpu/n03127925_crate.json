@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "file", "score": 0.40590178966522217}, {"class_id": "1", "label": "apiary", "score": 0.25457262992858887}, {"class_id": "2", "label": "crate", "score": 0.1942942887544632}]}

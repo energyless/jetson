@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Polaroid_camera", "score": 0.9461337327957153}, {"class_id": "1", "label": "television", "score": 0.035940732806921005}, {"class_id": "2", "label": "projector", "score": 0.007636790629476309}]}

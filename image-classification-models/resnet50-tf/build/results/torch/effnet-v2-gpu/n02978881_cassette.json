@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cassette", "score": 0.9467557072639465}, {"class_id": "1", "label": "cassette_player", "score": 0.04324090853333473}, {"class_id": "2", "label": "tape_player", "score": 0.009817615151405334}]}

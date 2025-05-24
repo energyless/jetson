@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "boa_constrictor", "score": 0.9906008243560791}, {"class_id": "1", "label": "rock_python", "score": 0.0036083234008401632}, {"class_id": "2", "label": "diamondback", "score": 0.0013263561995700002}]}

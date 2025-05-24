@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cuirass", "score": 0.9260467290878296}, {"class_id": "1", "label": "breastplate", "score": 0.06712150573730469}, {"class_id": "2", "label": "shield", "score": 0.003344473894685507}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "perfume", "score": 0.3069300949573517}, {"class_id": "1", "label": "desktop_computer", "score": 0.11918912082910538}, {"class_id": "2", "label": "monitor", "score": 0.09564737230539322}]}

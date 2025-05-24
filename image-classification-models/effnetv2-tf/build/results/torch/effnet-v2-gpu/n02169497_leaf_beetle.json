@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02169497", "label": "leaf_beetle", "score": 0.817337155342102}, {"class_id": "n02177972", "label": "weevil", "score": 0.08832019567489624}, {"class_id": "n01776313", "label": "tick", "score": 0.01375762652605772}]}

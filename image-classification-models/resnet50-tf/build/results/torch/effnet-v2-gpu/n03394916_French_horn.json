@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "French_horn", "score": 0.7770170569419861}, {"class_id": "1", "label": "trombone", "score": 0.13205881416797638}, {"class_id": "2", "label": "cornet", "score": 0.06416800618171692}]}

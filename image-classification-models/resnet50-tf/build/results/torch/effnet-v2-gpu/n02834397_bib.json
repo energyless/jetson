@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bib", "score": 0.9999693632125854}, {"class_id": "1", "label": "purse", "score": 1.1877663382620085e-05}, {"class_id": "2", "label": "mailbag", "score": 5.58103010916966e-06}]}

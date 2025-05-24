@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03717622", "label": "manhole_cover", "score": 0.891825258731842}, {"class_id": "n03223299", "label": "doormat", "score": 0.010468997992575169}, {"class_id": "n02892201", "label": "brass", "score": 0.0047679771669209}]}

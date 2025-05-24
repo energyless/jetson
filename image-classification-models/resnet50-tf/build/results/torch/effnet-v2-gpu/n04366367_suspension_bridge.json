@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "suspension_bridge", "score": 0.9980119466781616}, {"class_id": "1", "label": "swing", "score": 0.0011962142307311296}, {"class_id": "2", "label": "maypole", "score": 0.0001661307323956862}]}

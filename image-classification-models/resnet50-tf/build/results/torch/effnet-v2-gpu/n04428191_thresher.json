@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "thresher", "score": 0.9675894975662231}, {"class_id": "1", "label": "harvester", "score": 0.014244661666452885}, {"class_id": "2", "label": "bicycle-built-for-two", "score": 0.009547547437250614}]}

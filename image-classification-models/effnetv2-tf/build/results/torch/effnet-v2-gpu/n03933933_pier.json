@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03933933", "label": "pier", "score": 0.8575259447097778}, {"class_id": "n04366367", "label": "suspension_bridge", "score": 0.04012177139520645}, {"class_id": "n04311004", "label": "steel_arch_bridge", "score": 0.032358523458242416}]}

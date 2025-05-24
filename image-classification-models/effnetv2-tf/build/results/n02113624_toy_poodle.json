@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02113624", "label": "toy_poodle", "score": 0.5545868873596191}, {"class_id": "n02113712", "label": "miniature_poodle", "score": 0.36743032932281494}, {"class_id": "n02113799", "label": "standard_poodle", "score": 0.0056697288528084755}]}

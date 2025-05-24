@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "486", "label": "cello", "score": 0.4761062264442444}, {"class_id": "889", "label": "violin", "score": 0.3153727352619171}, {"class_id": "420", "label": "banjo", "score": 0.001916434965096414}]}

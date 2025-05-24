@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "home_theater", "score": 0.6470905542373657}, {"class_id": "1", "label": "entertainment_center", "score": 0.2326442152261734}, {"class_id": "2", "label": "television", "score": 0.04474459961056709}]}

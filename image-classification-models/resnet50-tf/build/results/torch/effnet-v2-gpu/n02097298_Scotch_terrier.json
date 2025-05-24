@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Scotch_terrier", "score": 0.9244992733001709}, {"class_id": "1", "label": "Bouvier_des_Flandres", "score": 0.030555984005331993}, {"class_id": "2", "label": "Kerry_blue_terrier", "score": 0.012383349239826202}]}

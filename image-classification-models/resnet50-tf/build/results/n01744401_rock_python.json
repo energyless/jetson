@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "62", "label": "rock python", "score": 0.7460441589355469}, {"class_id": "61", "label": "boa constrictor", "score": 0.03278409689664841}, {"class_id": "60", "label": "night snake", "score": 0.010752511210739613}]}

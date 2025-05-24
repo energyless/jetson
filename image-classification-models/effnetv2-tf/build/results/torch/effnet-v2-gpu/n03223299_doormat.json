@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03223299", "label": "doormat", "score": 0.6578683257102966}, {"class_id": "n02808304", "label": "bath_towel", "score": 0.21766583621501923}, {"class_id": "n04548362", "label": "wallet", "score": 0.01575273647904396}]}

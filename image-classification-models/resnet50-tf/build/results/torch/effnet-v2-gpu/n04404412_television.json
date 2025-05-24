@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "home_theater", "score": 0.29032742977142334}, {"class_id": "1", "label": "studio_couch", "score": 0.22322720289230347}, {"class_id": "2", "label": "window_shade", "score": 0.06348108500242233}]}

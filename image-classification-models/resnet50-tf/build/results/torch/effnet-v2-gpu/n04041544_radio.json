@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "military_uniform", "score": 0.6579751372337341}, {"class_id": "1", "label": "oxygen_mask", "score": 0.22442932426929474}, {"class_id": "2", "label": "stretcher", "score": 0.051493313163518906}]}

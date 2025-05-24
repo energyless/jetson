@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "snorkel", "score": 0.9896723031997681}, {"class_id": "1", "label": "scuba_diver", "score": 0.008837680332362652}, {"class_id": "2", "label": "gasmask", "score": 0.0007911886787042022}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n02676566", "label": "acoustic_guitar", "score": 0.8742952942848206}, {"class_id": "n03929660", "label": "pick", "score": 0.017847329378128052}, {"class_id": "n03272010", "label": "electric_guitar", "score": 0.006295975763350725}]}

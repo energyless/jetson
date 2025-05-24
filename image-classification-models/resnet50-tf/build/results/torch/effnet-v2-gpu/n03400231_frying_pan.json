@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "frying_pan", "score": 0.8146203756332397}, {"class_id": "1", "label": "Dutch_oven", "score": 0.0957302674651146}, {"class_id": "2", "label": "spatula", "score": 0.058659765869379044}]}

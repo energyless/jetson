@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "armadillo", "score": 0.9512971043586731}, {"class_id": "1", "label": "common_iguana", "score": 0.023243308067321777}, {"class_id": "2", "label": "Komodo_dragon", "score": 0.008642720058560371}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04252077", "label": "snowmobile", "score": 0.9046120643615723}, {"class_id": "n03791053", "label": "motor_scooter", "score": 0.007722970563918352}, {"class_id": "n02860847", "label": "bobsled", "score": 0.0028069699183106422}]}

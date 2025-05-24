@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03710193", "label": "mailbox", "score": 0.9327971339225769}, {"class_id": "n02977058", "label": "cash_machine", "score": 0.001487201894633472}, {"class_id": "n03187595", "label": "dial_telephone", "score": 0.0012091955868527293}]}

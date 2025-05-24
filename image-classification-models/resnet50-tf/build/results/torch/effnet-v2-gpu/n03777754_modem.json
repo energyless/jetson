@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "notebook", "score": 0.7628162503242493}, {"class_id": "1", "label": "laptop", "score": 0.1444403976202011}, {"class_id": "2", "label": "modem", "score": 0.012827140279114246}]}

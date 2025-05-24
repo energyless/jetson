@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "black_grouse", "score": 0.9971828460693359}, {"class_id": "1", "label": "cock", "score": 0.001486038090661168}, {"class_id": "2", "label": "hen", "score": 0.0006681701634079218}]}

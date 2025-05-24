@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "lens_cap", "score": 0.9999985694885254}, {"class_id": "1", "label": "reflex_camera", "score": 6.314692768683017e-07}, {"class_id": "2", "label": "stopwatch", "score": 2.0624624141873937e-07}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "toilet_tissue", "score": 0.9966367483139038}, {"class_id": "1", "label": "paper_towel", "score": 0.0031701228581368923}, {"class_id": "2", "label": "shower_curtain", "score": 0.00012320101086515933}]}

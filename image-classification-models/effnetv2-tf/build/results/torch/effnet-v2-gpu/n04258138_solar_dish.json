@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04258138", "label": "solar_dish", "score": 0.961174488067627}, {"class_id": "n03457902", "label": "greenhouse", "score": 0.0007818500744178891}, {"class_id": "n03956157", "label": "planetarium", "score": 0.0007814900018274784}]}

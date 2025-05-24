@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "wing", "score": 0.9999990463256836}, {"class_id": "1", "label": "airliner", "score": 7.376356165877951e-07}, {"class_id": "2", "label": "warplane", "score": 9.611984808088891e-08}]}

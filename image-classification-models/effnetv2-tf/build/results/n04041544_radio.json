@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03763968", "label": "military_uniform", "score": 0.3393944203853607}, {"class_id": "n03868863", "label": "oxygen_mask", "score": 0.2552742660045624}, {"class_id": "n02749479", "label": "assault_rifle", "score": 0.11444800347089767}]}

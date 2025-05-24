@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04162706", "label": "seat_belt", "score": 0.5459979772567749}, {"class_id": "n02965783", "label": "car_mirror", "score": 0.06271570920944214}, {"class_id": "n03000134", "label": "chainlink_fence", "score": 0.05392690747976303}]}

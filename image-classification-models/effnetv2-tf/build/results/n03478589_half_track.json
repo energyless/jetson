@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03478589", "label": "half_track", "score": 0.8137335181236267}, {"class_id": "n04461696", "label": "tow_truck", "score": 0.01535755954682827}, {"class_id": "n02950826", "label": "cannon", "score": 0.014611680991947651}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "web_site", "score": 0.9998997449874878}, {"class_id": "1", "label": "hand-held_computer", "score": 2.2053582142689265e-05}, {"class_id": "2", "label": "oscilloscope", "score": 1.7824228052631952e-05}]}

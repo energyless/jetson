@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "555", "label": "fire engine", "score": 0.7112579345703125}, {"class_id": "661", "label": "Model T", "score": 0.05283697322010994}, {"class_id": "864", "label": "tow truck", "score": 0.009700821712613106}]}

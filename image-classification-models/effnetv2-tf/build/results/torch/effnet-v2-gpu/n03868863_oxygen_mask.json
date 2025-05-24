@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03868863", "label": "oxygen_mask", "score": 0.845808207988739}, {"class_id": "n03424325", "label": "gasmask", "score": 0.016916342079639435}, {"class_id": "n03630383", "label": "lab_coat", "score": 0.015852566808462143}]}

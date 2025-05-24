@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03425413", "label": "gas_pump", "score": 0.9362621903419495}, {"class_id": "n02977058", "label": "cash_machine", "score": 0.012790202163159847}, {"class_id": "n04501370", "label": "turnstile", "score": 0.006082350853830576}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04049303", "label": "rain_barrel", "score": 0.8703728318214417}, {"class_id": "n02795169", "label": "barrel", "score": 0.05577211081981659}, {"class_id": "n02747177", "label": "ashcan", "score": 0.005172186531126499}]}

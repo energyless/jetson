@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "569", "label": "garbage truck", "score": 0.8309096693992615}, {"class_id": "412", "label": "ashcan", "score": 0.004541924223303795}, {"class_id": "867", "label": "trailer truck", "score": 0.001107181771658361}]}

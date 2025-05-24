@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sulphur-crested_cockatoo", "score": 0.9974772334098816}, {"class_id": "1", "label": "goose", "score": 0.0004746885097119957}, {"class_id": "2", "label": "drake", "score": 0.0003296555078122765}]}

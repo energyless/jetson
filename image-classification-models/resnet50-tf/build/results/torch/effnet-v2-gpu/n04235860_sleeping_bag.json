@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sleeping_bag", "score": 0.746099591255188}, {"class_id": "1", "label": "mountain_tent", "score": 0.2523948848247528}, {"class_id": "2", "label": "cradle", "score": 0.0002980848075821996}]}

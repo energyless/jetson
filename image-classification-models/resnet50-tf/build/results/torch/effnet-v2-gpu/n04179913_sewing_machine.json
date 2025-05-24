@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sewing_machine", "score": 0.999447762966156}, {"class_id": "1", "label": "cornet", "score": 0.00048498361138626933}, {"class_id": "2", "label": "trombone", "score": 4.547731441562064e-05}]}

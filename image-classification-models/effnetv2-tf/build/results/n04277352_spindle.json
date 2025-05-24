@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04277352", "label": "spindle", "score": 0.8885325193405151}, {"class_id": "n04033901", "label": "quill", "score": 0.001867238781414926}, {"class_id": "n03658185", "label": "letter_opener", "score": 0.0017273400444537401}]}

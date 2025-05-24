@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "goblet", "score": 0.8923009634017944}, {"class_id": "1", "label": "washbasin", "score": 0.042511001229286194}, {"class_id": "2", "label": "pedestal", "score": 0.02188374660909176}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "megalith", "score": 0.9999995231628418}, {"class_id": "1", "label": "stone_wall", "score": 3.830347168332082e-07}, {"class_id": "2", "label": "mortar", "score": 1.8503465426533694e-08}]}

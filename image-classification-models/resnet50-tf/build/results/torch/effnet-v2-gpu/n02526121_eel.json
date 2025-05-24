@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "eel", "score": 0.5554898381233215}, {"class_id": "1", "label": "tench", "score": 0.18307913839817047}, {"class_id": "2", "label": "electric_ray", "score": 0.07274415343999863}]}

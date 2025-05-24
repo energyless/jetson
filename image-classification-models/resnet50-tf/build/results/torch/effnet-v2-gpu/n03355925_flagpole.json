@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "flagpole", "score": 0.9564308524131775}, {"class_id": "1", "label": "cinema", "score": 0.01847674883902073}, {"class_id": "2", "label": "planetarium", "score": 0.002237452892586589}]}

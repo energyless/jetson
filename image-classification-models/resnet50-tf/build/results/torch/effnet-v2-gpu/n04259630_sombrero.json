@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cowboy_hat", "score": 0.994071900844574}, {"class_id": "1", "label": "sombrero", "score": 0.005924941506236792}, {"class_id": "2", "label": "bonnet", "score": 1.11130464119924e-06}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "drumstick", "score": 0.9973371624946594}, {"class_id": "1", "label": "drum", "score": 0.0026595161762088537}, {"class_id": "2", "label": "banjo", "score": 3.2577627280261368e-06}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "ski_mask", "score": 0.9697331786155701}, {"class_id": "1", "label": "pillow", "score": 0.019526086747646332}, {"class_id": "2", "label": "sleeping_bag", "score": 0.003350531216710806}]}

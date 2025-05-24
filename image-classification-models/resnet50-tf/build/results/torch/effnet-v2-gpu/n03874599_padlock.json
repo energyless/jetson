@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "padlock", "score": 0.963855504989624}, {"class_id": "1", "label": "combination_lock", "score": 0.03505798429250717}, {"class_id": "2", "label": "chain", "score": 0.0009281908278353512}]}

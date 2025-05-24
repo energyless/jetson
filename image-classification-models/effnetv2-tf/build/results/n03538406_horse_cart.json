@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03538406", "label": "horse_cart", "score": 0.9163934588432312}, {"class_id": "n03868242", "label": "oxcart", "score": 0.007879444397985935}, {"class_id": "n02437312", "label": "Arabian_camel", "score": 0.0022000090684741735}]}

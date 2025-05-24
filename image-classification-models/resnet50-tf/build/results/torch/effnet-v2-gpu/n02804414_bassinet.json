@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bassinet", "score": 0.891566276550293}, {"class_id": "1", "label": "cradle", "score": 0.10666535794734955}, {"class_id": "2", "label": "crib", "score": 0.0017432470340281725}]}

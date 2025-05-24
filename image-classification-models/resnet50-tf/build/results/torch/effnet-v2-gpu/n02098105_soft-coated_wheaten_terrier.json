@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "soft-coated_wheaten_terrier", "score": 0.7510003447532654}, {"class_id": "1", "label": "Irish_wolfhound", "score": 0.1255885660648346}, {"class_id": "2", "label": "Bouvier_des_Flandres", "score": 0.05073443055152893}]}

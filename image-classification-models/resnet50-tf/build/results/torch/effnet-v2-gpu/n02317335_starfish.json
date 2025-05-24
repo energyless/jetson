@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "starfish", "score": 0.9999353885650635}, {"class_id": "1", "label": "knot", "score": 3.315602953080088e-05}, {"class_id": "2", "label": "sea_cucumber", "score": 8.804353456071112e-06}]}

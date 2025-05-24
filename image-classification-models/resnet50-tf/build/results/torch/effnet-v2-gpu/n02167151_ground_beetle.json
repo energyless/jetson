@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "ground_beetle", "score": 0.9759407639503479}, {"class_id": "1", "label": "dung_beetle", "score": 0.010619883425533772}, {"class_id": "2", "label": "leaf_beetle", "score": 0.005387267097830772}]}

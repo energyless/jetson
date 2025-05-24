@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cocktail_shaker", "score": 0.9809606075286865}, {"class_id": "1", "label": "soap_dispenser", "score": 0.002557385480031371}, {"class_id": "2", "label": "refrigerator", "score": 0.001502176863141358}]}

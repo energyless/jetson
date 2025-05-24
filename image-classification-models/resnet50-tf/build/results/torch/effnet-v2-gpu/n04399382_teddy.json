@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "teddy", "score": 0.9676750898361206}, {"class_id": "1", "label": "paper_towel", "score": 0.013857168145477772}, {"class_id": "2", "label": "diaper", "score": 0.004358746577054262}]}

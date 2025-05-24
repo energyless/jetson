@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "sulphur_butterfly", "score": 0.4406888782978058}, {"class_id": "1", "label": "rapeseed", "score": 0.2870982885360718}, {"class_id": "2", "label": "cabbage_butterfly", "score": 0.06180219352245331}]}

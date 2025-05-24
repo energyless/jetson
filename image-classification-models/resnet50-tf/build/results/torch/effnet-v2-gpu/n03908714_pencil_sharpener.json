@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "reel", "score": 0.8478279113769531}, {"class_id": "1", "label": "hard_disc", "score": 0.0533100962638855}, {"class_id": "2", "label": "electric_fan", "score": 0.03141653165221214}]}

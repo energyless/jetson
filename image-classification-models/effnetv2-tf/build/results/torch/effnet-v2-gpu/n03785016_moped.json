@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03785016", "label": "moped", "score": 0.9181790947914124}, {"class_id": "n03791053", "label": "motor_scooter", "score": 0.007639228366315365}, {"class_id": "n03792782", "label": "mountain_bike", "score": 0.003396120620891452}]}

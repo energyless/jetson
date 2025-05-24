@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bassoon", "score": 0.9898985028266907}, {"class_id": "1", "label": "oboe", "score": 0.0034601716324687004}, {"class_id": "2", "label": "rifle", "score": 0.000767116725910455}]}

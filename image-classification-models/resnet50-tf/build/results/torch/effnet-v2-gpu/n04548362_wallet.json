@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "wallet", "score": 0.2701062262058258}, {"class_id": "1", "label": "accordion", "score": 0.12599210441112518}, {"class_id": "2", "label": "envelope", "score": 0.03808572143316269}]}

@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "harmonica", "score": 0.9999914169311523}, {"class_id": "1", "label": "rubber_eraser", "score": 1.8062487470160704e-06}, {"class_id": "2", "label": "modem", "score": 1.2962759683432523e-06}]}

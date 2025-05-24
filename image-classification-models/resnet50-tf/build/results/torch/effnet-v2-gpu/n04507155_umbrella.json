@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "umbrella", "score": 0.9562513828277588}, {"class_id": "1", "label": "bonnet", "score": 0.035542331635951996}, {"class_id": "2", "label": "shower_cap", "score": 0.001525895670056343}]}

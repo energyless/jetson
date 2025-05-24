@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "worm_fence", "score": 0.25841423869132996}, {"class_id": "1", "label": "picket_fence", "score": 0.1959601789712906}, {"class_id": "2", "label": "plate_rack", "score": 0.11187794804573059}]}

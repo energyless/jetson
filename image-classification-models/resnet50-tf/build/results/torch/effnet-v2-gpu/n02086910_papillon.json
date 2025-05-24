@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "papillon", "score": 0.9996249675750732}, {"class_id": "1", "label": "Shetland_sheepdog", "score": 9.307936852565035e-05}, {"class_id": "2", "label": "Border_collie", "score": 4.6513352572219446e-05}]}

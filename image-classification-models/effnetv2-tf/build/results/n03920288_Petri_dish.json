@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03920288", "label": "Petri_dish", "score": 0.6422513723373413}, {"class_id": "n02951585", "label": "can_opener", "score": 0.11530151963233948}, {"class_id": "n03400231", "label": "frying_pan", "score": 0.022668972611427307}]}

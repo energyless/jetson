@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Irish_water_spaniel", "score": 0.995689332485199}, {"class_id": "1", "label": "standard_poodle", "score": 0.0035897702910006046}, {"class_id": "2", "label": "curly-coated_retriever", "score": 0.0002111495559802279}]}

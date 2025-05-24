@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "night_snake", "score": 0.4517727196216583}, {"class_id": "1", "label": "boa_constrictor", "score": 0.19092079997062683}, {"class_id": "2", "label": "horned_viper", "score": 0.1278853714466095}]}

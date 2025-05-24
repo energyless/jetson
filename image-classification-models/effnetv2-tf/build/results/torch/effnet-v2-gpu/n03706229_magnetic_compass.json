@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n03706229", "label": "magnetic_compass", "score": 0.9325109124183655}, {"class_id": "n02794156", "label": "barometer", "score": 0.009906983003020287}, {"class_id": "n04328186", "label": "stopwatch", "score": 0.006882237736135721}]}

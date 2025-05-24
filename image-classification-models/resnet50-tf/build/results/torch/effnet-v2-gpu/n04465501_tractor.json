@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "tractor", "score": 0.9210145473480225}, {"class_id": "1", "label": "plow", "score": 0.06694618612527847}, {"class_id": "2", "label": "harvester", "score": 0.006426664534956217}]}

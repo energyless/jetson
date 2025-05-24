@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "seat_belt", "score": 0.27761250734329224}, {"class_id": "1", "label": "chainlink_fence", "score": 0.11366994678974152}, {"class_id": "2", "label": "tripod", "score": 0.09399806708097458}]}

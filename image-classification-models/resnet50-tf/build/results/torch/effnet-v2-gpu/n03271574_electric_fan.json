@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "electric_fan", "score": 0.4223473072052002}, {"class_id": "1", "label": "space_heater", "score": 0.4072045385837555}, {"class_id": "2", "label": "radio", "score": 0.05408896505832672}]}

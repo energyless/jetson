@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "712", "label": "Petri dish", "score": 0.7414889931678772}, {"class_id": "438", "label": "beaker", "score": 0.0030102645978331566}, {"class_id": "925", "label": "consomme", "score": 0.0015064936596900225}]}

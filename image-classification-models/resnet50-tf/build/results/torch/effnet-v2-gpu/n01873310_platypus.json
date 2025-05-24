@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "platypus", "score": 0.9999812841415405}, {"class_id": "1", "label": "beaver", "score": 7.280969384737546e-06}, {"class_id": "2", "label": "wild_boar", "score": 6.1446889958460815e-06}]}

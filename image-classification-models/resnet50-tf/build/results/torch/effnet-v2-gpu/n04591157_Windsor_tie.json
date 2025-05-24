@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "Windsor_tie", "score": 0.4981173574924469}, {"class_id": "1", "label": "bow_tie", "score": 0.25404393672943115}, {"class_id": "2", "label": "suit", "score": 0.22273701429367065}]}

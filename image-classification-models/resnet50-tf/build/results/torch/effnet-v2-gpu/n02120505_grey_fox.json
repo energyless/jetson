@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "grey_fox", "score": 0.9909708499908447}, {"class_id": "1", "label": "kit_fox", "score": 0.005197123624384403}, {"class_id": "2", "label": "red_fox", "score": 0.003493542317301035}]}

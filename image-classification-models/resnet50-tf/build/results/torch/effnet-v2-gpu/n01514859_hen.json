@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "hen", "score": 0.5350475907325745}, {"class_id": "1", "label": "cock", "score": 0.4618869423866272}, {"class_id": "2", "label": "vulture", "score": 0.0022956980392336845}]}

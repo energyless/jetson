@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "mushroom", "score": 0.5365933775901794}, {"class_id": "1", "label": "gyromitra", "score": 0.4514787197113037}, {"class_id": "2", "label": "bolete", "score": 0.006529994774609804}]}

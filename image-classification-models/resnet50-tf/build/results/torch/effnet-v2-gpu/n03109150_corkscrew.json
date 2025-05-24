@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "corkscrew", "score": 0.9916336536407471}, {"class_id": "1", "label": "can_opener", "score": 0.004973011557012796}, {"class_id": "2", "label": "soap_dispenser", "score": 0.0006976239383220673}]}

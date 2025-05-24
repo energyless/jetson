@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "magnetic_compass", "score": 0.9999157190322876}, {"class_id": "1", "label": "stopwatch", "score": 3.796134842559695e-05}, {"class_id": "2", "label": "combination_lock", "score": 2.136264811269939e-05}]}

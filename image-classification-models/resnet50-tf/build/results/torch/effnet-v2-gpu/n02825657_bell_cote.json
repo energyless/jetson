@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "bell_cote", "score": 0.9128454923629761}, {"class_id": "1", "label": "brass", "score": 0.020173558965325356}, {"class_id": "2", "label": "church", "score": 0.00864266324788332}]}

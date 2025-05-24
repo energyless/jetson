@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "turnstile", "score": 0.9276347160339355}, {"class_id": "1", "label": "tripod", "score": 0.05719786882400513}, {"class_id": "2", "label": "desk", "score": 0.0037953106220811605}]}

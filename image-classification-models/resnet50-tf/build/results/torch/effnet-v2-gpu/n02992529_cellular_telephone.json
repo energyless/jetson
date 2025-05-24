@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "cellular_telephone", "score": 0.5049315094947815}, {"class_id": "1", "label": "hand-held_computer", "score": 0.46801432967185974}, {"class_id": "2", "label": "radio", "score": 0.005071132443845272}]}

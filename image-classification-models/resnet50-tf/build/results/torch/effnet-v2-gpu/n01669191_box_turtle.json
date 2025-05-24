@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "box_turtle", "score": 0.9413150548934937}, {"class_id": "1", "label": "terrapin", "score": 0.045405879616737366}, {"class_id": "2", "label": "mud_turtle", "score": 0.012059620581567287}]}

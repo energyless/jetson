@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "881", "label": "upright", "score": 0.7558843493461609}, {"class_id": "687", "label": "organ", "score": 0.003285449231043458}, {"class_id": "579", "label": "grand piano", "score": 0.0021322607062757015}]}

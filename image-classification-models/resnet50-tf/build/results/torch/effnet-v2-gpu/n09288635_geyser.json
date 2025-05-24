@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "geyser", "score": 0.9991090893745422}, {"class_id": "1", "label": "drilling_platform", "score": 0.00036639030440710485}, {"class_id": "2", "label": "fireboat", "score": 0.00014556523819919676}]}

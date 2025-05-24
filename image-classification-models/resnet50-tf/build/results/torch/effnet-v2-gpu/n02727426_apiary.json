@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "apiary", "score": 0.9999997615814209}, {"class_id": "1", "label": "mobile_home", "score": 1.0514507664538542e-07}, {"class_id": "2", "label": "ashcan", "score": 5.178451090159797e-08}]}

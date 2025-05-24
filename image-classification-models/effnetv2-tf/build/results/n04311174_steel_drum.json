@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "n04311174", "label": "steel_drum", "score": 0.9663964509963989}, {"class_id": "n03249569", "label": "drum", "score": 0.003621891140937805}, {"class_id": "n03250847", "label": "drumstick", "score": 0.0009660218493081629}]}

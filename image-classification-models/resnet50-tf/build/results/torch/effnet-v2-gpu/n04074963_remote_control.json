@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "combination_lock", "score": 0.946230947971344}, {"class_id": "1", "label": "remote_control", "score": 0.018955154344439507}, {"class_id": "2", "label": "modem", "score": 0.013247021473944187}]}

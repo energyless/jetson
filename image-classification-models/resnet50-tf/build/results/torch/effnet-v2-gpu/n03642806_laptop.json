@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "0", "label": "laptop", "score": 0.5011041760444641}, {"class_id": "1", "label": "notebook", "score": 0.45097076892852783}, {"class_id": "2", "label": "crossword_puzzle", "score": 0.004135669209063053}]}

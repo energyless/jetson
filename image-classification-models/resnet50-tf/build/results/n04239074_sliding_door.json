@@ -1,0 +1,1 @@
+{"predictions": [{"class_id": "799", "label": "sliding door", "score": 0.7418496608734131}, {"class_id": "706", "label": "patio", "score": 0.0104161212220788}, {"class_id": "789", "label": "shoji", "score": 0.0030749309808015823}]}
